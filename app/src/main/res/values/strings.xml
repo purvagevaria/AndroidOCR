@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android OCR</string>
+
+    <string-array name="categories">
+        <item>@string/food</item>
+        <item>@string/clothing</item>
+        <item>@string/transport</item>
+        <item>@string/medical</item>
+    </string-array>
+
+    <string name="food">Food</string>
+    <string name="clothing">clothing</string>
+    <string name="transport">transport</string>
+    <string name="medical">medical</string>
+</resources>
