@@ -7,11 +7,6 @@
 
 A simple Android OCR (Optical Character Recognition) application that makes use of with Camera or Gallery (Image to Text).
 
-# Source
-Repo to demonstrate Optical Character Recognition in Android. This is a follow up on the youtube at :
-
-[Text Recognition App](https://www.youtube.com/watch?v=mmuz8qIWcL8)
-
 # Demo App
 
 <p align="center">
