@@ -12,7 +12,14 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
 
 <p align="center">
   <a href="https://github.com/achmadqomarudin/Android-OCR/releases/latest/download/app-demo.apk">
-    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="80">
+
+| App UI |
+| ------------- | ------------- |
+|  <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="80"> |  <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="80">  |
+|  <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="80">  |  <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="80"> |
+
+    
+   
   </a>
 </p>
 
