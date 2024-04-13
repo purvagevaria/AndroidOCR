@@ -7,7 +7,7 @@
 
 A simple Android OCR (Optical Character Recognition) application that makes use of with Camera or Gallery (Image to Text).
 ![image](https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7)
-![]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7) =250x250)
+•	![]( https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7 | width=100)
 
 # Demo App
 
