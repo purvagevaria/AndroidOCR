@@ -15,7 +15,7 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
 
 | App UI |
 | ------------- | ------------- |
-|   <img src="[https://www.inspirefm.org/wp-content/uploads/button-apk.png](https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7)" height="80"> |
+| <img src="[https://www.inspirefm.org/wp-content/uploads/button-apk.png](https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7)" height="80"> |
 
     
    
