@@ -11,12 +11,15 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
 
 <p align="center">
 
-| Main Dashboard  | Category screen |
+| MAIN Dashboard (Without expenses) | Main Dashbord (With expenses added) |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7" width="250" height="470">  | <img src="https://github.com/purvagevaria/AndroidOCR/assets/153696052/4566a11c-5bf2-473e-b63d-5561ed78db5c" width="250" height="470"> |
-   
+| <img src=" https://github.com/purvagevaria/AndroidOCR/assets/147112956/f4895e1a-e04f-4ca2-bf6f-abb61b1fa1b5" width="250" height="470">  |  <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7" width="250" height="470"> |
+| OCR Screen | Category selection|
+| <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/c5569963-d297-4040-bfb4-0a4f0d90c0d7" width="250" height="470"> |  <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/795454ad-8065-4065-9b67-39025f55934e" width="250" height="470"> | 
+| Edit expenses |
+| <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/f0c5d469-0b19-433a-a928-f9d21fb3cda3" width="250" height="470"> | 
   </a>
+
 </p>
 
 <table style="width:100%">
