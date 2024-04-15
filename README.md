@@ -6,16 +6,14 @@
 [![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://java-lang.github.io/awesome-java)
 
 A simple Android OCR (Optical Character Recognition) application that makes use of with Camera or Gallery (Image to Text).
-<img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7" width="400" height="490">
 
 # Demo App
 
 <p align="center">
-  <a href="https://github.com/achmadqomarudin/Android-OCR/releases/latest/download/app-demo.apk">
 
 | App UI |
 |--------------------|
-| <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7" width="250" height="270"> |
+| <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7" width="250" height="470"> |
 | <img src="https://github.com/purvagevaria/AndroidOCR/assets/153696052/1de14169-3965-4572-8288-e5e7e35a86a8" width="250" height="470">> |
 | <img src="https://github.com/purvagevaria/AndroidOCR/assets/153696052/4566a11c-5bf2-473e-b63d-5561ed78db5c" width="250" height="470">> |
 
