@@ -16,6 +16,8 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
 | App UI |
 |--------------------|
 | <img src="https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7" width="250" height="290"> |
+| <img src="[https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7](https://github.com/purvagevaria/AndroidOCR/assets/153696052/4566a11c-5bf2-473e-b63d-5561ed78db5c)" width="250" height="290"> |
+| <img src="[https://github.com/purvagevaria/AndroidOCR/assets/147112956/9e124ab9-d04c-4f16-95e4-55a09be584a7](https://github.com/purvagevaria/AndroidOCR/assets/153696052/1de14169-3965-4572-8288-e5e7e35a86a8)" width="250" height="290"> |
 
 ![WhatsApp Image 2024-04-15 at 6 27 26 PM (1)](https://github.com/purvagevaria/AndroidOCR/assets/153696052/4566a11c-5bf2-473e-b63d-5561ed78db5c)
 ![WhatsApp Image 2024-04-15 at 6 27 26 PM](https://github.com/purvagevaria/AndroidOCR/assets/153696052/1de14169-3965-4572-8288-e5e7e35a86a8)
