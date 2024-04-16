@@ -21,7 +21,9 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
   </a>
 </p>
 
-# License
+# Collabrators
+- Mock designing and prototype building <a href="https://github.com/purnasth" target="_blank">Bhumika (100906674) & Sukriti (100890188)</a>
+- POC and other code stuff <a href="https://github.com/purnasth" target="_blank">Purva (100904426)</a>
 
 ```
     Copyright (C) Achmad Qomarudin
