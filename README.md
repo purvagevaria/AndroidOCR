@@ -22,8 +22,8 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
 </p>
 
 # Collabrators
-- Mock designing and prototype building <a href="[https://github.com/purnasth](https://github.com/BhumikaPathak2)" target="_blank">Bhumika (100906674) & Sukriti (100890188)</a>
-- Mock designing and prototype building <a href="[https://github.com/purnasth](https://github.com/Sukriti2111)" target="_blank"> Sukriti (100890188)</a>
+- Mock designing and prototype building <a href="https://github.com/BhumikaPathak2" target="_blank">Bhumika (100906674) & Sukriti (100890188)</a>
+- Mock designing and prototype building <a href="https://github.com/Sukriti2111" target="_blank"> Sukriti (100890188)</a>
 - POC and other code stuff <a href="https://github.com/purnasth" target="_blank">Purva (100904426)</a>
 
 ```
